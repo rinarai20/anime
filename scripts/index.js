@@ -1,1 +1,3 @@
-console.log('it works')
+import parseCSV from './utilites/parse-csv'
+
+parseCSV('asd')
