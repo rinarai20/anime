@@ -16,8 +16,7 @@ export default function csvJSON(csv){
 	  }
 
 	  result.push(obj);
-
   }
   
-  return JSON.stringify(result);
+  return result;
 }
