@@ -33,9 +33,10 @@ fetch('./data/anime-top-100.csv')
 		const cartoons = parseCSV(cartoonsCSV)
 		const table = document.getElementById('episodes-table')
 
-		cartoons.forEach(item => {
+		cartoons.forEach((item, position) => {
 
 			const rowHtml = `<tr>
+	            <td>${position+1}</td>
 	            <td>${item.rating}</td>
 	            <td>${item.title}</td>
 	            <td>${item.release}</td>
