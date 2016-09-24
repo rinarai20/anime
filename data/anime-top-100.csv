@@ -1,101 +1,101 @@
-#,title,rating,nb. votes,number of episodes,special,fillers,running time,year
-1,Fullmetal Alchemist: Brotherhood (TV),9.10,5445,64,4,0,24,2009
-2,Steins;Gate (TV),09.09,4313,24,2,0,25,2011
-3,Clannad After Story (TV),09.07,5046,22,3,0,25,2008
-4,Rurouni Kenshin: Trust & Betrayal (OAV),8.97,6581,4,0,0,30,1999
-5,Code Geass: Lelouch of the Rebellion R2 (TV),8.94,7645,25,0,0,25,2008
-6,Spirited Away (movie),8.92,10303,1,0,0,125,2001
-7,Mushishi: The Next Chapter (TV),8.91,415,20,0,0,25,2014
-8,Cowboy Bebop (TV),8.90,11923,26,2,0,25,1998
-9,(The) Disappearance of Haruhi Suzumiya (movie),8.88,2673,1,0,0,163,2010
-10,Princess Mononoke (movie),8.86,9627,1,0,0,133,1997
-11,(The) Legend of the Galactic Heroes (OAV),8.80,652,110,0,0,25,1988
-12,Death Note (TV),8.79,12607,37,2,0,25,2006
-13,Mushi-Shi (TV),8.79,4888,26,1,0,25,2005
-14,Gintama' (TV),8.78,383,201,0,26,25,2006
-15,anohana: The Flower We Saw That Day (TV),8.78,3028,11,0,0,23,2011
-16,Maria Watches Over Us 3rd Season (OAV),8.77,715,5,0,0,50,2006
-17,Gintama 3 (TV 2012),8.77,215,13,0,0,24,2012
-18,Maria Watches Over Us Season 2: Printemps (TV),8.76,1336,13,0,0,25,2004
-19,Code Geass: Lelouch of the Rebellion (TV),8.76,8923,25,0,0,24,2006
-20,Evangelion: 2.0 You Can (Not) Advance (movie),8.74,1995,1,0,0,108,2009
-21,Maria Watches Over Us 4th Season (TV),8.74,499,13,0,0,25,2009
-22,Bunny Drop (TV),8.74,1694,11,4,0,22,2011
-23,Monster (TV),8.71,3368,74,0,0,24,2004
-24,Summer Wars (movie),8.68,3266,1,0,0,114,2009
-25,Cross Game (TV),8.68,660,50,0,0,24,2009
-26,Grave of the Fireflies (movie),8.68,4486,1,0,0,88,1988
-27,Ghost in the Shell: Stand Alone Complex 2nd GIG (TV),8.67,2508,26,0,0,25,2002
-28,5 Centimeters Per Second (movie),8.67,5599,1,0,0,62,2007
-29,Fighting Spirit (TV),8.66,1598,76,0,0,24,2000
-30,(The) Garden of Sinners (movie series),8.66,1629,1,0,0,33,2011
-31,Fullmetal Alchemist (TV),8.66,13253,51,1,0,25,2003
-32,(The) Girl Who Leapt Through Time (movie),8.66,5400,1,0,0,98,2006
-33,Nodame Cantabile (TV),8.65,2718,23,1,0,23,2007
-34,Gekijōban Gintama Kanketsu-hen: Yorozuya yo Eien Nare (movie),8.65,138,1,0,0,110,2013
-35,Gintama (TV 4),8.65,87,51,0,0,25,2015
-36,Star Blazers 2199 (TV),8.64,256,26,0,0,25,2012
-37,Nausicaä of the Valley of the Wind (movie),8.63,4911,,,,,
-38,Wolf Children (movie),8.63,978,,,,,
-39,Gurren Lagann (TV),8.63,6786,,,,,
-40,Hunter × Hunter (TV 2011),8.63,788,,,,,
-41,My Neighbor Totoro (movie),8.61,4512,,,,,
-42,Baccano! (TV),8.60,4057,,,,,
-43,Natsume's Book of Friends (TV 4),8.59,520,,,,,
-44,Honey and Clover II (TV),8.59,2019,,,,,
-45,Kanon (TV 2/2006),8.57,3587,,,,,
-46,Kino's Journey (TV),8.57,2568,,,,,
-47,Time of Eve (ONA),8.57,1409,,,,,
-48,Hajime no Ippo: New Challenger (TV),8.57,697,,,,,
-49,GTO: Great Teacher Onizuka (TV),8.56,4144,,,,,
-50,Time of Eve (movie),8.56,605,,,,,
-51,Puella Magi Madoka Magica (TV),8.56,3316,,,,,
-52,Natsume's Book of Friends (TV 2),8.56,1097,,,,,
-53,Monogatari Series Second Season (TV),8.56,569,,,,,
-54,Howl's Moving Castle (movie),8.55,6653,,,,,
-55,Mushishi Tokubetsu-hen: Hihamukage (special),8.54,181,,,,,
-56,Kids on the Slope (TV),8.53,1163,,,,,
-57,Millennium Actress (movie),8.53,2304,,,,,
-58,Mononoke (TV),8.52,782,,,,,
-59,Kaleido Star (TV),8.52,2067,,,,,
-60,Natsume's Book of Friends (TV 3),8.52,616,,,,,
-61,(The) Melancholy of Haruhi Suzumiya (TV),8.50,10068,,,,,
-62,Clannad (TV),8.50,6088,,,,,
-63,Gankutsuou: The Count of Monte Cristo (TV),8.49,2789,,,,,
-64,NANA (TV),8.49,2000,,,,,
-65,Planetes (TV),8.49,2363,,,,,
-66,(The) Beast Player Erin (TV),8.48,379,,,,,
-67,Looking Up At The Half-Moon (TV),8.47,2331,,,,,
-68,Whisper of the Heart (movie),8.46,2551,,,,,
-69,Castle in the Sky (movie),8.46,4762,,,,,
-70,Gurren Lagann the Movie – The Lights in the Sky Are Stars,8.45,450,,,,,
-71,Ouran High School Host Club (TV),8.45,6604,,,,,
-72,Angel Beats! (TV),8.45,4619,,,,,
-73,Samurai Champloo (TV),8.45,7786,,,,,
-74,Maria Watches Over Us (TV),8.44,2003,,,,,
-75,Your Lie in April (TV),8.44,981,,,,,
-76,ef: a tale of melodies (TV),8.44,1200,,,,,
-77,Ghost in the Shell: Stand Alone Complex (TV),8.43,5076,,,,,
-78,Moribito - Guardian of the Spirit (TV),8.43,2421,,,,,
-79,Haikyu!! Second Season (TV),8.43,147,,,,,
-80,ef: a tale of memories (TV),8.43,2425,,,,,
-81,Aria the Origination (TV),8.43,799,,,,,
-82,Spice and Wolf II (TV),8.43,2128,,,,,
-83,Welcome to the NHK (TV),8.41,4047,,,,,
-84,Black Lagoon: The Second Barrage (TV),8.41,3671,,,,,
-85,Honey and Clover (TV),8.40,2865,,,,,
-86,(The) Tale of the Princess Kaguya (movie),8.40,208,,,,,
-87,Chihayafuru (TV),8.40,961,,,,,
-88,Sword of the Stranger (movie),8.40,1767,,,,,
-89,Hunter X Hunter (OAV),8.40,1404,,,,,
-90,Legend of the Galactic Heroes: Overture to a New War (movie),8.40,169,,,,,
-91,Romeo × Juliet (TV),8.40,2325,,,,,
-92,(The) Garden of Words (movie),8.39,789,,,,,
-93,Mobile Suit Gundam UC (OAV),8.39,370,,,,,
-94,Major (TV),8.39,362,,,,,
-95,Haibane Renmei (TV),8.39,4029,,,,,
-96,Toradora! (TV),8.39,4752,,,,,
-97,Cowboy Bebop: The Movie,8.39,5916,,,,,
-98,(The) Twelve Kingdoms (TV),8.39,2670,,,,,
-99,Evangelion: 1.0 You Are (Not) Alone (movie),8.38,2502,,,,,
-100,Tokyo Godfathers (movie),8.38,2071,,,,,
+title,rating,votes,episodes,special,fillers,duration,release
+Fullmetal Alchemist: Brotherhood (TV),9.10,5445,64,4,0,24,2009
+Steins;Gate (TV),09.09,4313,24,2,0,25,2011
+Clannad After Story (TV),09.07,5046,22,3,0,25,2008
+Rurouni Kenshin: Trust & Betrayal (OAV),8.97,6581,4,0,0,30,1999
+Code Geass: Lelouch of the Rebellion R2 (TV),8.94,7645,25,0,0,25,2008
+Spirited Away (movie),8.92,10303,1,0,0,125,2001
+Mushishi: The Next Chapter (TV),8.91,415,20,0,0,25,2014
+Cowboy Bebop (TV),8.90,11923,26,2,0,25,1998
+(The) Disappearance of Haruhi Suzumiya (movie),8.88,2673,1,0,0,163,2010
+Princess Mononoke (movie),8.86,9627,1,0,0,133,1997
+(The) Legend of the Galactic Heroes (OAV),8.80,652,110,0,0,25,1988
+Death Note (TV),8.79,12607,37,2,0,25,2006
+Mushi-Shi (TV),8.79,4888,26,1,0,25,2005
+Gintama' (TV),8.78,383,201,0,26,25,2006
+anohana: The Flower We Saw That Day (TV),8.78,3028,11,0,0,23,2011
+Maria Watches Over Us 3rd Season (OAV),8.77,715,5,0,0,50,2006
+Gintama 3 (TV 2012),8.77,215,13,0,0,24,2012
+Maria Watches Over Us Season 2: Printemps (TV),8.76,1336,13,0,0,25,2004
+Code Geass: Lelouch of the Rebellion (TV),8.76,8923,25,0,0,24,2006
+Evangelion: 2.0 You Can (Not) Advance (movie),8.74,1995,1,0,0,108,2009
+Maria Watches Over Us 4th Season (TV),8.74,499,13,0,0,25,2009
+Bunny Drop (TV),8.74,1694,11,4,0,22,2011
+Monster (TV),8.71,3368,74,0,0,24,2004
+Summer Wars (movie),8.68,3266,1,0,0,114,2009
+Cross Game (TV),8.68,660,50,0,0,24,2009
+Grave of the Fireflies (movie),8.68,4486,1,0,0,88,1988
+Ghost in the Shell: Stand Alone Complex 2nd GIG (TV),8.67,2508,26,0,0,25,2002
+5 Centimeters Per Second (movie),8.67,5599,1,0,0,62,2007
+Fighting Spirit (TV),8.66,1598,76,0,0,24,2000
+(The) Garden of Sinners (movie series),8.66,1629,1,0,0,33,2011
+Fullmetal Alchemist (TV),8.66,13253,51,1,0,25,2003
+(The) Girl Who Leapt Through Time (movie),8.66,5400,1,0,0,98,2006
+Nodame Cantabile (TV),8.65,2718,23,1,0,23,2007
+Gekijōban Gintama Kanketsu-hen: Yorozuya yo Eien Nare (movie),8.65,138,1,0,0,110,2013
+Gintama (TV 4),8.65,87,51,0,0,25,2015
+Star Blazers 2199 (TV),8.64,256,26,0,0,25,2012
+Nausicaä of the Valley of the Wind (movie),8.63,4911,,,,,
+Wolf Children (movie),8.63,978,,,,,
+Gurren Lagann (TV),8.63,6786,,,,,
+Hunter × Hunter (TV 2011),8.63,788,,,,,
+My Neighbor Totoro (movie),8.61,4512,,,,,
+Baccano! (TV),8.60,4057,,,,,
+Natsume's Book of Friends (TV 4),8.59,520,,,,,
+Honey and Clover II (TV),8.59,2019,,,,,
+Kanon (TV 2/2006),8.57,3587,,,,,
+Kino's Journey (TV),8.57,2568,,,,,
+Time of Eve (ONA),8.57,1409,,,,,
+Hajime no Ippo: New Challenger (TV),8.57,697,,,,,
+GTO: Great Teacher Onizuka (TV),8.56,4144,,,,,
+Time of Eve (movie),8.56,605,,,,,
+Puella Magi Madoka Magica (TV),8.56,3316,,,,,
+Natsume's Book of Friends (TV 2),8.56,1097,,,,,
+Monogatari Series Second Season (TV),8.56,569,,,,,
+Howl's Moving Castle (movie),8.55,6653,,,,,
+Mushishi Tokubetsu-hen: Hihamukage (special),8.54,181,,,,,
+Kids on the Slope (TV),8.53,1163,,,,,
+Millennium Actress (movie),8.53,2304,,,,,
+Mononoke (TV),8.52,782,,,,,
+Kaleido Star (TV),8.52,2067,,,,,
+Natsume's Book of Friends (TV 3),8.52,616,,,,,
+(The) Melancholy of Haruhi Suzumiya (TV),8.50,10068,,,,,
+Clannad (TV),8.50,6088,,,,,
+Gankutsuou: The Count of Monte Cristo (TV),8.49,2789,,,,,
+NANA (TV),8.49,2000,,,,,
+Planetes (TV),8.49,2363,,,,,
+(The) Beast Player Erin (TV),8.48,379,,,,,
+Looking Up At The Half-Moon (TV),8.47,2331,,,,,
+Whisper of the Heart (movie),8.46,2551,,,,,
+Castle in the Sky (movie),8.46,4762,,,,,
+Gurren Lagann the Movie – The Lights in the Sky Are Stars,8.45,450,,,,,
+Ouran High School Host Club (TV),8.45,6604,,,,,
+Angel Beats! (TV),8.45,4619,,,,,
+Samurai Champloo (TV),8.45,7786,,,,,
+Maria Watches Over Us (TV),8.44,2003,,,,,
+Your Lie in April (TV),8.44,981,,,,,
+ef: a tale of melodies (TV),8.44,1200,,,,,
+Ghost in the Shell: Stand Alone Complex (TV),8.43,5076,,,,,
+Moribito - Guardian of the Spirit (TV),8.43,2421,,,,,
+Haikyu!! Second Season (TV),8.43,147,,,,,
+ef: a tale of memories (TV),8.43,2425,,,,,
+Aria the Origination (TV),8.43,799,,,,,
+Spice and Wolf II (TV),8.43,2128,,,,,
+Welcome to the NHK (TV),8.41,4047,,,,,
+Black Lagoon: The Second Barrage (TV),8.41,3671,,,,,
+Honey and Clover (TV),8.40,2865,,,,,
+(The) Tale of the Princess Kaguya (movie),8.40,208,,,,,
+Chihayafuru (TV),8.40,961,,,,,
+Sword of the Stranger (movie),8.40,1767,,,,,
+Hunter X Hunter (OAV),8.40,1404,,,,,
+Legend of the Galactic Heroes: Overture to a New War (movie),8.40,169,,,,,
+Romeo × Juliet (TV),8.40,2325,,,,,
+(The) Garden of Words (movie),8.39,789,,,,,
+Mobile Suit Gundam UC (OAV),8.39,370,,,,,
+Major (TV),8.39,362,,,,,
+Haibane Renmei (TV),8.39,4029,,,,,
+Toradora! (TV),8.39,4752,,,,,
+Cowboy Bebop: The Movie,8.39,5916,,,,,
+(The) Twelve Kingdoms (TV),8.39,2670,,,,,
+Evangelion: 1.0 You Are (Not) Alone (movie),8.38,2502,,,,,
+Tokyo Godfathers (movie),8.38,2071,,,,,
