@@ -4,7 +4,7 @@ function squaresForEpisodes(episodes) {
 	let squares = ''
 	let i = 0;
 	while (i <  Number(episodes)) {
-	  squares += '<div class="cell dip"></div> '
+	  squares += '<div class="cell dip"></div>'
 	  i++
 	}
 	return squares
@@ -13,7 +13,7 @@ function squaresForFillers(fillers) {
 	let squares = ''
 	let i = 0;
 	while (i <  Number(fillers)) {
-	  squares += '<div class="cell-filler dip"></div> '
+	  squares += '<div class="cell-filler dip"></div>'
 	  i++
 	}
 	return squares
@@ -22,7 +22,7 @@ function squaresForSpecial(special) {
 	let squares = ''
 	let i = 0;
 	while (i <  Number(special)) {
-	  squares += '<div class="cell-special dip"></div> '
+	  squares += '<div class="cell-special dip"></div>'
 	  i++
 	}
 	return squares
@@ -36,10 +36,10 @@ fetch('./data/anime-top-100.csv')
 		cartoons.forEach((item, position) => {
 
 			const rowHtml = `<tr>
-	            <td>${position+1}</td>
-	            <td>${item.rating}</td>
-	            <td>${item.title}</td>
-	            <td>${item.release}</td>
+	            <td class="tar td-margin">${position+1}</td>
+	            <td class="title td-margin">${item.title}</td>
+	            <td class="td-margin">${item.rating}</td>
+	            <td class="td-margin">${item.release}</td>
 	            <td>
 	            	${squaresForEpisodes(item.episodes)}
 	            	${squaresForFillers(item.fillers)}

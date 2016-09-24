@@ -7,16 +7,12 @@ body {
     color: #fff;
     font-size: 40px;
     display: inline-block;
-    margin: 74px 13px 50px 68px;
+    margin: 56px 6px 35px 77px;
 }
 .caption {
     color: #939393;
-    font-size: 17px;
+    font-size: 14px;
     display: inline-block;
-}
-.cap {
-    color: #969696;
-    font-size: 15px;
 }
 .dip {
     display: inline-block;
@@ -26,18 +22,21 @@ body {
     font-size: 20px;
 }
 .cell {
-    width: 4px;
-    height: 14px;
+    width: 1px;
+    height: 10px;
+    margin-right: 2px;
     background-color: #969696;
 }
 .cell-special {
-    width: 4px;
-    height: 14px;
+    width: 1px;
+    height: 10px;
+    margin-right: 2px;
     background-color: #F1B209;
 }
 .cell-filler {
-    width: 4px;
-    height: 14px;
+    width: 1px;
+    height: 10px;
+    margin-right: 2px;
     background-color: #D0021B;
 }
 .numbering {
@@ -55,4 +54,22 @@ body {
 }
 .margin-cell {
     margin-top: 5px;
+}
+table{
+    margin-left: 80px;
+    font-size: 14px;
+    text-align: left;
+}
+thead{
+    font-size: 12px;
+    color: #939393;
+}
+.tar{
+    text-align: right;
+}
+.title{
+    width: 33%;
+}
+.td-margin{
+    padding-right: 10px;
 }
